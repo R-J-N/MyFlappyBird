@@ -64,8 +64,3 @@ python main.py
 * Handling **Hitbox Collision** using Pygame's `Rect` objects.
 
 ---
-
-**Radhika Nair**
-[GitHub](https://www.google.com/search?q=https://github.com/R-J-N) | [LinkedIn](https://www.google.com/search?q=YOUR_LINKEDIN_URL)
-
----
