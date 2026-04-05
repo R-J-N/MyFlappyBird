@@ -11,8 +11,7 @@ A classic 2D Flappy Bird clone built using Python and Pygame. This project demon
 
 ## 🛠️ Tech Stack
 
-* **Language:** Python 3.x
-* **Library:** [Pygame](https://www.pygame.org/news)
+* **Unity:** C#
 
 ## 📦 Installation & Setup
 
